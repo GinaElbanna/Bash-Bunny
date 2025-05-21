@@ -1,0 +1,9 @@
+ATTACKMODE HID
+
+QUACK GUI
+QUACK STRING cmd
+sleep .1
+QUACK ENTER
+sleep 1
+QUACK STRING start https://youtu.be/xvFZjo5PgG0?si=nqMrpeqxg36NJXjm
+QUACK ENTER

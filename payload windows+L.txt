@@ -1,0 +1,5 @@
+ATTACKMODE HID
+
+QUACK STRING Hello World!
+sleep 2
+QUACK GUI l

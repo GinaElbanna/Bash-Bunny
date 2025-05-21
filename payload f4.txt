@@ -1,0 +1,13 @@
+ATTACKMODE HID
+
+function altf4(){
+    QUACK ALT F4
+    QUACK ENTER
+    altf4
+}
+
+LED G 200
+QUACK STRING Goodbye World!
+sleep 2
+LED R B
+altf4
